@@ -24,14 +24,14 @@
                             "description": "supported versions",
                             "type": "string",
                             "listEnum": [
-                              "logilab/voila-demo:latest"
+                              "djangoliv/voila-demo:latest"
                             ],
                             "render": "list",
                             "hidden": {
                                 "value": true,
                                 "path": "service/image/custom/enabled"
                             },
-                          "default": "logilab/voila-demo:latest"
+                          "default": "djangoliv/voila-demo:latest"
                         },
                         "custom": {
                             "description": "use a custom voila docker image",
@@ -46,7 +46,7 @@
                                 "version": {
                                     "description": "voila unsupported version",
                                     "type": "string",
-                                    "default": "logilab/voila-demo:latest",
+                                    "default": "djangoliv/voila-demo:latest",
                                     "hidden": {
                                         "value": false,
                                         "path": "service/image/custom/enabled"
