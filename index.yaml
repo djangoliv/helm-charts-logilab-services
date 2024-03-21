@@ -42,6 +42,26 @@ entries:
     - https://github.com/djangoliv/helm-charts-logilab-services
     type: application
     urls:
+    - https://github.com/djangoliv/helm-charts-logilab-services/releases/download/voila-demo-1.0.0/voila-demo-1.0.1.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    created: "2024-03-20T19:36:37.953806049Z"
+    dependencies:
+    - name: library-chart
+      repository: https://inseefrlab.github.io/helm-charts-interactive-services
+      version: 1.5.21
+    description: voila demo
+    home: https://voila-gallery.org/
+    icon: https://raw.githubusercontent.com/voila-dashboards/voila/main/docs/voila-logo.svg
+    keywords:
+    - voila
+    - Jupyter
+    - Python
+    name: voila-demo
+    sources:
+    - https://github.com/djangoliv/helm-charts-logilab-services
+    type: application
+    urls:
     - https://github.com/djangoliv/helm-charts-logilab-services/releases/download/voila-demo-1.0.1/voila-demo-1.0.1.tgz
     version: 1.0.1
   voila-demo-2:
