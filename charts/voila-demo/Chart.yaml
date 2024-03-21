@@ -5,7 +5,6 @@ icon: https://raw.githubusercontent.com/voila-dashboards/voila/main/docs/voila-l
 keywords:
   - voila
   - Jupyter
-  - Python
 home: https://voila-gallery.org
 sources:
   - https://forge.extranet.logilab.fr/open-source/onyxia/helm-charts-logilab-services
