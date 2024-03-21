@@ -23,7 +23,7 @@ entries:
     urls:
     - https://github.com/InseeFrLab/helm-charts-interactive-services/releases/download/jupyter-python-1.13.28/jupyter-python-1.13.28.tgz
     version: 1.13.28
-  jupyter-python:
+  voila-demo:
   - apiVersion: v2
     created: "2024-02-22T19:36:37.953806049Z"
     dependencies:
