@@ -44,4 +44,4 @@ entries:
     type: application
     urls:
     - https://github.com/djangoliv/helm-charts-logilab-services/releases/download/voila-demo-1.0.0/voila-demo-1.0.0.tgz
-    version: 1.0.0
+    version: 1.0.1
