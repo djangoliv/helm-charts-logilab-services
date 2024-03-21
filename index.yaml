@@ -62,7 +62,7 @@ entries:
     - https://github.com/djangoliv/helm-charts-logilab-services
     type: application
     urls:
-    - https://github.com/djangoliv/helm-charts-logilab-services/releases/download/voila-demo-1.0.1/voila-demo-1.0.0.tgz
+    - https://github.com/djangoliv/helm-charts-logilab-services/releases/download/voila-demo-1.0.1/voila-demo-1.0.1.tgz
     version: 1.0.1
   voila-demo-2:
   - apiVersion: v2
